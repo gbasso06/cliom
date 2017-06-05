@@ -1,0 +1,16 @@
+{
+  "name": "Cliom",
+  "version": "1.0.0",
+  "description": "Bot de atendimento da cliom",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sachin Bhatnagar <mailme@sachinbhatnagar.com> (http://sachinbhatnagar.com)",
+  "license": "ISC",
+  "dependencies": {
+    "detect-character-encoding": "^0.3.1",
+    "node-wit": "4.0.0",
+    "request": "2.74.0",
+    "restify": "4.1.1"
+  }
+}
